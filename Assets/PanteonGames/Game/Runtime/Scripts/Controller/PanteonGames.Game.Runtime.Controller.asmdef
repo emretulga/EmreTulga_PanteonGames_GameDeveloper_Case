@@ -1,0 +1,19 @@
+{
+    "name": "PanteonGames.Game.Runtime.Controller",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c474dd1530d21a044ada176d6d9b9260",
+        "GUID:e15d193b059d81047bf8e10cf8c44319",
+        "GUID:a8b19865148ae2844bc9e364aae3b19e",
+        "GUID:a4a3992c49b72c14e85c1444559cff26"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

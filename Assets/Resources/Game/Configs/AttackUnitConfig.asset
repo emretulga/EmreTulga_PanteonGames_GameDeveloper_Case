@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4dbdacb977547c49b663ef126b1fa2b, type: 3}
+  m_Name: AttackUnitConfig
+  m_EditorClassIdentifier: 
+  AttackUnits:
+  - Key: Soldier3
+    Name: Soldier 3
+    SizeX: 1
+    SizeY: 1
+    Health: 10
+    Damage: 2
+    SecondPerAttack: 1
+  - Key: Soldier2
+    Name: Soldier 2
+    SizeX: 1
+    SizeY: 1
+    Health: 10
+    Damage: 5
+    SecondPerAttack: 1
+  - Key: Soldier1
+    Name: Soldier 1
+    SizeX: 1
+    SizeY: 1
+    Health: 10
+    Damage: 10
+    SecondPerAttack: 1

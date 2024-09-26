@@ -1,0 +1,17 @@
+{
+    "name": "PanteonGames.Game.Runtime.Factory",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c474dd1530d21a044ada176d6d9b9260",
+        "GUID:a8b19865148ae2844bc9e364aae3b19e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
